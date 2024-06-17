@@ -3,10 +3,8 @@ package fizzbuzz;
 public class step3 {
 
 	public class Main {
-	    public static void main(String[] args) {
-	    	
-	    pr();
-	    
+	    public static void main(String[] args) {    	
+	    pr();	    
 	}
 	        	
 	public  static void pr() {    		
